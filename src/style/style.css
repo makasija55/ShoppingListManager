@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+}
+
+.addItem{
+    width: 200px;
+    height: auto;
+}
+
+
+.itemList{
+        width: 300px;
+        height: auto;
+        border: 1px solid black;
+ }
+
+ .totalCost{
+     width: auto;
+     border: 1px solid black;
+ }
+
+ .navbar{
+     width: 100%;
+     background-color:gray;
+     min-height : 50px;
+     margin-bottom: 2rem;
+ }
